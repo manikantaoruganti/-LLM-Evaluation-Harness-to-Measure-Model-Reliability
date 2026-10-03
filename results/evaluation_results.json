@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "model": "gpt-4o-mini",
+    "total_questions": 25,
+    "phrasings_per_question": 3,
+    "total_evaluations": 75,
+    "temperature": 0
+  },
+  "overall_accuracy": 0.0,
+  "phrasing_accuracy": {
+    "1": 0.0,
+    "2": 0.0,
+    "3": 0.0
+  },
+  "category_accuracy": {},
+  "difficulty_accuracy": {},
+  "question_results": [],
+  "most_failed_questions": [],
+  "evaluations": []
+}
