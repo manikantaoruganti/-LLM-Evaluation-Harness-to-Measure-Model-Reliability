@@ -1,0 +1,327 @@
+[
+  {
+    "id": "q01",
+    "question_text": "What is the capital of Australia?",
+    "correct_answer": "Canberra",
+    "category": "geography",
+    "difficulty": "easy",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is the capital of Australia?",
+      "Which city serves as Australia's capital?",
+      "Australia has several major cities. Which one is its national capital?"
+    ]
+  },
+  {
+    "id": "q02",
+    "question_text": "What is 15 multiplied by 7?",
+    "correct_answer": "105",
+    "category": "arithmetic",
+    "difficulty": "easy",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is 15 multiplied by 7?",
+      "Calculate the product of 15 and 7.",
+      "If you have 15 groups of 7, what is the total?"
+    ]
+  },
+  {
+    "id": "q03",
+    "question_text": "What is the square root of 144?",
+    "correct_answer": "12",
+    "category": "mathematics",
+    "difficulty": "medium",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is the square root of 144?",
+      "Find the number that, when multiplied by itself, equals 144.",
+      "Calculate √144."
+    ]
+  },
+  {
+    "id": "q04",
+    "question_text": "What is the chemical symbol for water?",
+    "correct_answer": "H2O",
+    "category": "science",
+    "difficulty": "easy",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is the chemical symbol for water?",
+      "Provide the chemical formula for water.",
+      "In chemistry, how is water represented?"
+    ]
+  },
+  {
+    "id": "q05",
+    "question_text": "Which planet is closest to the sun?",
+    "correct_answer": "Mercury",
+    "category": "science",
+    "difficulty": "easy",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "Which planet is closest to the sun?",
+      "Name the planet that orbits nearest to our star.",
+      "Of all the planets, which one is the first from the sun?"
+    ]
+  },
+  {
+    "id": "q06",
+    "question_text": "If A equals B and B equals C, what is the relationship between A and C?",
+    "correct_answer": "A equals C",
+    "category": "logic",
+    "difficulty": "easy",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "If A equals B and B equals C, what is the relationship between A and C?",
+      "Given A=B and B=C, what can be concluded about A and C?",
+      "In a transitive relationship where A is B and B is C, how does A relate to C?"
+    ]
+  },
+  {
+    "id": "q07",
+    "question_text": "What is the largest ocean on Earth?",
+    "correct_answer": "Pacific Ocean",
+    "category": "geography",
+    "difficulty": "easy",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is the largest ocean on Earth?",
+      "Name the biggest ocean by surface area.",
+      "Which of the world's oceans is the most expansive?"
+    ]
+  },
+  {
+    "id": "q08",
+    "question_text": "What does the acronym 'CPU' stand for in computing?",
+    "correct_answer": "Central Processing Unit",
+    "category": "computer science fundamentals",
+    "difficulty": "easy",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What does the acronym 'CPU' stand for in computing?",
+      "Expand the abbreviation CPU in the context of computers.",
+      "What do the letters C.P.U. represent in computer terminology?"
+    ]
+  },
+  {
+    "id": "q09",
+    "question_text": "How many layers are there in the OSI model?",
+    "correct_answer": "7",
+    "category": "computer science fundamentals",
+    "difficulty": "medium",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "How many layers are there in the OSI model?",
+      "State the total number of layers in the Open Systems Interconnection model.",
+      "The OSI model defines how many distinct layers for network communication?"
+    ]
+  },
+  {
+    "id": "q10",
+    "question_text": "What is the primary function of a firewall?",
+    "correct_answer": "To monitor and control incoming and outgoing network traffic",
+    "category": "computer science fundamentals",
+    "difficulty": "medium",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is the primary function of a firewall?",
+      "Explain the main purpose of a network firewall.",
+      "In cybersecurity, what role does a firewall typically play?"
+    ]
+  },
+  {
+    "id": "q11",
+    "question_text": "What is the purpose of the `len()` function in Python?",
+    "correct_answer": "To return the number of items in an object",
+    "category": "programming concepts",
+    "difficulty": "easy",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is the purpose of the `len()` function in Python?",
+      "Describe what the `len()` built-in function does in Python.",
+      "How is `len()` used in Python programming?"
+    ]
+  },
+  {
+    "id": "q12",
+    "question_text": "How do you write a single-line comment in Python?",
+    "correct_answer": "# This is a comment",
+    "category": "programming concepts",
+    "difficulty": "easy",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "How do you write a single-line comment in Python?",
+      "What character is used to denote a single-line comment in Python?",
+      "Show an example of a single-line comment in Python code."
+    ]
+  },
+  {
+    "id": "q13",
+    "question_text": "What is the currency of Japan?",
+    "correct_answer": "Japanese Yen",
+    "category": "geography",
+    "difficulty": "easy",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is the currency of Japan?",
+      "Name the official money used in Japan.",
+      "If you travel to Japan, what currency would you use?"
+    ]
+  },
+  {
+    "id": "q14",
+    "question_text": "What is the highest mountain in Africa?",
+    "correct_answer": "Mount Kilimanjaro",
+    "category": "geography",
+    "difficulty": "medium",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is the highest mountain in Africa?",
+      "Which peak is the tallest on the African continent?",
+      "Name Africa's highest freestanding mountain."
+    ]
+  },
+  {
+    "id": "q15",
+    "question_text": "What is the result of (25 + 10) / 5?",
+    "correct_answer": "7",
+    "category": "arithmetic",
+    "difficulty": "easy",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is the result of (25 + 10) / 5?",
+      "Calculate: (25 plus 10) divided by 5.",
+      "Perform the operation: add 25 and 10, then divide the sum by 5."
+    ]
+  },
+  {
+    "id": "q16",
+    "question_text": "Which of these is a prime number: 2, 4, 6, 8?",
+    "correct_answer": "2",
+    "category": "mathematics",
+    "difficulty": "easy",
+    "scoring_strategy": "regex_extraction",
+    "phrasings": [
+      "Which of these is a prime number: 2, 4, 6, 8?",
+      "From the list [2, 4, 6, 8], identify the prime number.",
+      "Select the prime number from the following options: A) 2, B) 4, C) 6, D) 8."
+    ]
+  },
+  {
+    "id": "q17",
+    "question_text": "What is the process by which plants convert light energy into chemical energy?",
+    "correct_answer": "Photosynthesis",
+    "category": "science",
+    "difficulty": "medium",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is the process by which plants convert light energy into chemical energy?",
+      "Name the biological process where plants use sunlight to synthesize food.",
+      "The conversion of light energy to chemical energy in plants is called what?"
+    ]
+  },
+  {
+    "id": "q18",
+    "question_text": "What is an algorithm in computer science?",
+    "correct_answer": "A set of step-by-step instructions to solve a problem",
+    "category": "computer science fundamentals",
+    "difficulty": "medium",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is an algorithm in computer science?",
+      "Define what an algorithm means in the context of computing.",
+      "Describe the concept of an algorithm as used in programming."
+    ]
+  },
+  {
+    "id": "q19",
+    "question_text": "What is a dictionary in Python?",
+    "correct_answer": "An unordered collection of key-value pairs",
+    "category": "programming concepts",
+    "difficulty": "medium",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is a dictionary in Python?",
+      "Explain the data structure known as a 'dictionary' in Python.",
+      "Describe the characteristics of a Python dictionary."
+    ]
+  },
+  {
+    "id": "q20",
+    "question_text": "What is polymorphism in object-oriented programming?",
+    "correct_answer": "The ability of an object to take on many forms",
+    "category": "programming concepts",
+    "difficulty": "hard",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is polymorphism in object-oriented programming?",
+      "Define polymorphism as it applies to OOP.",
+      "Explain the concept of polymorphism in the context of classes and objects."
+    ]
+  },
+  {
+    "id": "q21",
+    "question_text": "What is Newton's First Law of Motion?",
+    "correct_answer": "An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force.",
+    "category": "science",
+    "difficulty": "hard",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is Newton's First Law of Motion?",
+      "State the principle of inertia as described by Newton.",
+      "Formulate Newton's law that describes the behavior of objects in the absence of external forces."
+    ]
+  },
+  {
+    "id": "q22",
+    "question_text": "What is the capital of Canada?",
+    "correct_answer": "Ottawa",
+    "category": "geography",
+    "difficulty": "easy",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is the capital of Canada?",
+      "Which city is the federal capital of Canada?",
+      "Canada's national capital is which city?"
+    ]
+  },
+  {
+    "id": "q23",
+    "question_text": "What is the value of Pi (π) rounded to two decimal places?",
+    "correct_answer": "3.14",
+    "category": "mathematics",
+    "difficulty": "easy",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is the value of Pi (π) rounded to two decimal places?",
+      "Provide Pi (π) accurate to two decimal places.",
+      "Round the mathematical constant Pi (π) to two digits after the decimal point."
+    ]
+  },
+  {
+    "id": "q24",
+    "question_text": "What is the main purpose of a 'loop' in programming?",
+    "correct_answer": "To execute a block of code repeatedly",
+    "category": "programming concepts",
+    "difficulty": "medium",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is the main purpose of a 'loop' in programming?",
+      "Explain why loops are used in computer programming.",
+      "In coding, what functionality does a loop provide?"
+    ]
+  },
+  {
+    "id": "q25",
+    "question_text": "What is the largest desert in the world?",
+    "correct_answer": "Antarctic Polar Desert",
+    "category": "geography",
+    "difficulty": "hard",
+    "scoring_strategy": "normalized_exact_match",
+    "phrasings": [
+      "What is the largest desert in the world?",
+      "Name the biggest desert on Earth.",
+      "Which desert holds the record for being the largest globally?"
+    ]
+  }
+]
