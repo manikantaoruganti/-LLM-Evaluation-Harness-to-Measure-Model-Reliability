@@ -1,0 +1,5 @@
+openai==1.30.1
+python-dotenv==1.0.1
+pydantic==2.7.1
+pytest==8.2.0
+numpy==1.26.4 # For statistics.stdev
